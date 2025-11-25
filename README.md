@@ -1,42 +1,60 @@
-<!-- Centered GIF -->
+<!-- GIF -->
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="260">
+  <img src="https://user-images.githubusercontent.com/74038190/216654095-6f6772e4-e433-4bba-9164-1ca6f463ac3f.gif" width="160" />
 </div>
 
-<br>
+<!-- Hello -->
+<h2 align="center">
+  Hello! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
+</h2>
 
-<!-- Social Icons -->
-<div align="center">
+---
 
-  <!-- LinkedIn -->
-  <a href="https://www.linkedin.com/in/abhratanumajumder/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
-  </a>
+## 🧑‍💻 About Me
 
-  <!-- GitHub -->
-  <a href="https://github.com/DATASCYC">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
-  </a>
+Hi, I'm **Abhratanu** — a Data Analyst & BI Analyst who turns raw data into insights that drive smarter, faster decisions.  
+I specialise in building dashboards, cleaning and modelling data, and designing workflows that actually make sense.
 
-</div>
+---
 
+### 🚀 What I Do
+- 📊 Build clear, decision-ready dashboards (Power BI & Tableau)  
+- 📈 Analyse trends, patterns & KPIs for business impact  
+- 🧹 Clean, transform & model large datasets (SQL, Python, Excel)  
+- ⚙️ Automate reports & streamline data workflows  
+- 🤝 Work closely with product, tech & ops to deliver actionable insights  
 
-👋 Hey, I’m Abhratanu
+---
 
-Business Intelligence Analyst | Insight Builder | Process Fixer | Data Storyteller | Dog Lover 🐶
+### 🛠️ Tools I Use
+<p>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-4584B6?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
 
-Welcome to my corner of GitHub!
-I’m someone who genuinely enjoys turning complex, messy business challenges into clean, intuitive, data-powered solutions. Whether it’s dashboards, analytics, or process design, my mission is simple:
+---
 
-Make data feel human. Make decisions feel easy. Make work feel smoother.
+### 🌱 Currently Learning
+- 🛠️ Building scalable data pipelines (SQL + Python)  
+- 📈 Time-series forecasting & advanced analytics  
+- 🧩 Data modelling & warehouse fundamentals (Star Schema)  
+- 🎨 Better dashboard UX for storytelling impact  
 
-🔥 What I Do (and Actually Love Doing)
+---
 
-. Build dashboards that explain themselves
-. Turn raw data into insights people actually use
-. Optimise workflows so teams save hours, not minutes
-. Translate business chaos into user stories, BRDs & process flows
-. Develop predictive models that guide smarter decisions
-. Bring stakeholders, ideas, and tech teams into alignment ⚡
-I’ve worked across EdTech, e-commerce, biotech, nonprofits, and community organisations, always with a focus on impact and clarity.
+### 🐾 Behind the Screens 
+I’m a dog lover — and if you want to smile today,  
+**check out April’s photo below… isn’t she adorable?** 🐶✨
 
+---
