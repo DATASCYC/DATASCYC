@@ -1,5 +1,23 @@
+<!-- Centered GIF -->
 <div align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="250" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/b3fef2db-e671-4610-bb84-1d65533dc5fb" width="260">
+</div>
+
+<br>
+
+<!-- Social Icons -->
+<div align="center">
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/abhratanumajumder/">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+  </a>
+
+  <!-- GitHub -->
+  <a href="https://github.com/DATASCYC">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" />
+  </a>
+
 </div>
 
 
