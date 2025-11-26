@@ -57,4 +57,6 @@ I specialise in building dashboards, cleaning and modelling data, and designing 
 I’m a dog lover — and if you want to smile today,  
 **check out April’s photo below… isn’t she adorable?** 🐶✨
 
----
+<div align="center">
+  <img src="./April.jpeg" width="260" style="border-radius: 12px;" />
+</div>
